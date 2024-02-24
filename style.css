@@ -1,0 +1,11 @@
+.full-width{
+    height: 30vh; /* Altura del 30% de la ventana */
+    background-color: gray; /* Color de fondo gris */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn btn-primary{
+    width: 40%;
+}
